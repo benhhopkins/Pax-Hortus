@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_spawning	Bool"
+			],
+			[
+				"spar",
+				"sparklehit__png	String"
+			],
+			[
+				"_atta",
+				"_attackType	DamageType"
+			],
+			[
+				"_att",
+				"_attackType	DamageType"
+			],
+			[
+				"_ata",
+				"_attackType	DamageType"
+			],
+			[
+				"dem",
+				"demon__wav	String"
+			],
+			[
+				"sp",
+				"spirit__wav	String"
+			],
+			[
+				"al",
+				"alive	Bool"
+			],
+			[
+				"bon",
+				"bonsaibutton__png	String"
+			],
+			[
+				"berr",
+				"berries__png	String"
+			],
+			[
+				"berries",
+				"berriesbutton__png	String"
+			],
+			[
+				"sunfl",
+				"sunflower__png	String"
+			],
+			[
+				"Jo",
+				"Joy	DamageType"
+			],
+			[
+				"cos",
+				"towerCost"
+			],
+			[
+				"in",
+				"_income	Int"
+			],
+			[
+				"on",
+				"onOver	flixel.ui._FlxButton.FlxButtonEvent"
+			],
+			[
+				"upd",
+				"update( elapsed : Float )	Void"
+			],
+			[
+				"Bl",
+				"BLACK	flixel.util.FlxColor"
+			],
+			[
+				"bor",
+				"setBorderStyle(...)	flixel.text.FlxText"
+			],
+			[
+				"setT",
+				"setTile(...)	Bool"
+			],
+			[
+				"_goal",
+				"_goalSprite	flixel.FlxSprite"
+			],
+			[
+				"_goa",
+				"_goalSprite	flixel.FlxSprite"
+			],
+			[
+				"siz",
+				"setSize(...)	Void"
+			],
+			[
+				"res",
+				"reset( X : Float , Y : Float )	Void"
+			],
+			[
+				"for",
+				"forEachAlive(...)	Void"
+			],
+			[
+				"FlxTy",
+				"FlxTypedSpriteGroup	class"
+			],
+			[
+				"_wave",
+				"_waveSpawner	Wave"
+			],
+			[
+				"_ene",
+				"_waveSpawner	var"
+			],
+			[
+				"cou",
+				"countLiving(  )	Int"
+			],
+			[
+				"_go",
+				"_goalSprite	flixel.FlxSprite"
+			],
+			[
+				"_wa",
+				"_waveSpawner	Wave"
+			],
+			[
+				"Ene",
+				"EnemyType"
+			],
+			[
+				"fr",
+				"fromRGB(...)	flixel.util.FlxColor"
+			],
+			[
+				"bl",
+				"blue	Int"
+			],
+			[
+				"getTile",
+				"getTile( X : Int , Y : Int )	Int"
+			],
+			[
+				"justP",
+				"justPressedRight	Bool"
+			],
+			[
+				"FlxTra",
+				"FlxTransitionableState	flixel.addons.transition"
+			],
+			[
+				"lo",
+				"looped	Bool"
+			],
+			[
+				"fa",
+				"fadeIn(...)	flixel.system.FlxSound"
+			],
+			[
+				"pl",
+				"play(...)	flixel.system.FlxSound"
+			],
+			[
+				"loa",
+				"loadEmbedded(...)	flixel.system.FlxSound"
+			],
+			[
+				"ro",
+				"rotate(...)	flixel.math.FlxPoint"
+			],
+			[
+				"_at",
+				"_attackReady	Float"
+			],
+			[
+				"Til",
+				"TILE_SIZE"
+			],
+			[
+				"he",
+				"heightInTiles	Int"
+			],
+			[
+				"Wi",
+				"widthInTiles	Int"
+			],
+			[
+				"wi",
+				"widthInTiles	Int"
+			],
+			[
+				"updat",
+				"updateHUD(...)	Void"
+			],
+			[
+				"_tower",
+				"_towerBrush"
+			],
+			[
+				"up",
+				"updateHUD(...)	Void"
+			],
+			[
+				"FlxSp",
+				"FlxSpriteButton	class"
+			],
+			[
+				"fli",
+				"flipX	Bool"
+			],
+			[
+				"flxco",
+				"FlxColor	class"
+			],
+			[
+				"FlxCol",
+				"FlxColor	flixel.util"
+			],
+			[
+				"se",
+				"setSize(...)	Unknown<0>"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"setTil",
+				"setTileProperties(...)	Void"
+			],
+			[
+				"add",
+				"addons"
+			],
+			[
+				"Enemy",
+				"EnemyType	Int"
+			],
+			[
+				"enem",
+				"_enemies	var"
+			],
+			[
+				"_exit",
+				"_exitSprite	var"
+			],
+			[
+				"FlxTyp",
+				"FlxTypedGroup	class"
+			],
+			[
+				"tile",
+				"tilesWidth"
+			],
+			[
+				"_dist",
+				"_distanceMap	flixel.tile.FlxTilemap"
+			],
+			[
+				"si",
+				"resizeWindow(...)	Void"
+			],
+			[
+				"el",
+				"elapsed"
+			],
+			[
+				"flxcol",
+				"FlxColor	flixel.util"
+			],
+			[
+				"FlxGraph",
+				"FlxGraphicAsset	flixel.system.FlxAssets"
+			],
+			[
+				"Fl",
+				"FlxG	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 17408,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Wave.hx",
+			"settings":
+			{
+				"buffer_size": 4133,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Tower.hx",
+			"settings":
+			{
+				"buffer_size": 2473,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Attack.hx",
+			"settings":
+			{
+				"buffer_size": 2489,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Project.xml",
+			"settings":
+			{
+				"buffer_size": 3103,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Enemy.hx",
+			"settings":
+			{
+				"buffer_size": 3415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/hud.hx",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Windows",
+				"name": "package;"
+			}
+		},
+		{
+			"file": "source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/MenuState.hx",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Pack",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 240.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ben/Documents/GitHub/haxeflixel/Pax Hortus",
+		"/C/Users/Ben/Documents/GitHub/haxeflixel/Pax Hortus/source"
+	],
+	"file_history":
+	[
+		"/C/Users/Ben/Documents/GitHub/haxeflixel/Pax Hortus/source/Wave.hx",
+		"/C/Users/Ben/Documents/GitHub/haxeflixel/Pax Hortus/export/windows/cpp/obj/src/Tower.cpp",
+		"/C/HaxeToolkit/haxe/lib/flixel/4,1,0/flixel/system/macros/FlxDefines.hx",
+		"/C/Users/Ben/Documents/GitHub/haxeflixel/test/First.hx",
+		"/C/Users/Ben/Flappybalt/Flappybalt.hxproj"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cont",
+			"update",
+			"cont",
+			"playstate",
+			"playState",
+			"FlxParticle",
+			"particles",
+			"_income",
+			"placeEnemy",
+			"placeene",
+			"updateHUD",
+			"placeEnemy",
+			"wave",
+			"setBorderStyle",
+			"getheal",
+			"updateene",
+			"_attacks",
+			"update",
+			"sort",
+			"_goalSprite",
+			"placetower",
+			"palcetower",
+			"heatmap",
+			"_towers",
+			"flxpoint",
+			"moving",
+			"{\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7458,
+								7458
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/Wave.hx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2475.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Tower.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2381,
+								2381
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1605.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/Attack.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								785
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/Enemy.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1087,
+								1087
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/hud.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								937,
+								937
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package;",
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "source/Main.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "source/MenuState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Pax Hortus.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
